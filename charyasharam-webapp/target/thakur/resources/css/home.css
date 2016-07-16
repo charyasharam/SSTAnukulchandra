@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+
+.home-page-heading{
+	/* margin-top: 40px; */
+	color: #8080c0;
+}
+
+.sticky-impotant{
+	position: sticky !important;
+}
+
+.page-container{
+	max-width: 1140px;
+	margin: auto;
+}
