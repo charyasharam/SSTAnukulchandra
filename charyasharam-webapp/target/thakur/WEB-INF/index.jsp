@@ -1,1 +1,0 @@
-<h3>Sri Sri Thakur</h3>
